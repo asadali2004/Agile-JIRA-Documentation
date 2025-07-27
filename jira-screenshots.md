@@ -24,6 +24,8 @@ These screenshots demonstrate the practical application of Agile and Scrum metho
 ### Screenshot 4: Sprint Reports & Metrics
 ![Sprint Reports](./ScreenShots/JIRA4.png)
 
+![Sprint Reports](./ScreenShots/JIRA5.png)
+
 ---
 
 ## 📈 Key Achievements

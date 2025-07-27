@@ -14,19 +14,15 @@ These screenshots demonstrate the practical application of Agile and Scrum metho
 
 ### Screenshot 1: Project Setup & Backlog
 ![JIRA Project Setup](./ScreenShots/JIRA1.png)
-*Shows the initial project setup with backlog items created and organized*
 
 ### Screenshot 2: Sprint Planning
 ![Sprint Planning](./ScreenShots/JIRA2.png)
-*Demonstrates sprint creation and issue assignment following our sprint planning guide*
 
 ### Screenshot 3: Active Sprint Board
 ![Active Sprint Board](./ScreenShots/JIRA3.png)
-*Active sprint board showing issues in different states (To Do, In Progress, Done)*
 
 ### Screenshot 4: Sprint Reports & Metrics
 ![Sprint Reports](./ScreenShots/JIRA4.png)
-*Sprint completion report showing velocity and team performance metrics*
 
 ---
 
